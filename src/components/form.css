@@ -1,0 +1,41 @@
+
+#inputGroups{
+    background-image: url("../assests/form.gif");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+    width: 800px;
+    padding:50px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0px 0px 15px 0px #0000006b;
+    padding:20px 0px 0px 20px ;
+}
+input{
+    text-align: center;
+    margin-right: 20px;
+    margin-bottom: 25px;
+    border: none;
+    height: 40px;
+    border-radius: 6px;
+    box-shadow: 0px 0px 10px 0px #0000006b;
+}
+#center{
+    display: flex;
+    justify-content: space-evenly;
+}
+#right{
+    width: 800px;
+    padding:50px;
+    padding-top: 0px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0px 0px 15px 0px #0000006b;
+}
+#form{
+
+}
