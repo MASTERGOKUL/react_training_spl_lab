@@ -1,16 +1,24 @@
 <h1>React js training - Gokul s</h1>
 
 Day 1    —-->     intro to react 
-					|--> setup react 
+					|--> setup react
+					
 					|--> Render HTML
+					
 					
 Day 2,3    —-->     es6(ecma script)
 					|--> VARIABLES ✌️
+					
 					|--> aRROW FUNCTION =>()
+					
 					|--> aRRAY Methods 👽=[] 
+					
 					|-->Destructing [👾,👾]=👽
+					
 					|--> Spread operator [...👽]
+					
 					|-->Ternary operator 👽?👾:✌️
+					
 					
 
 Day 4    —-->     Components,Props ⚛️
@@ -23,6 +31,7 @@ Day 7     —-->    Router 🛣️
 
 Day 8	—-->	Hooks 🎣
 					|--> useState 🌌
+					
 					|--> useEffect 😵
 					
 Day 9   —-->     Github , Netlify   (not taught but go through the concepts to host the website)
